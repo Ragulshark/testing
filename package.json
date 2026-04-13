@@ -1,0 +1,23 @@
+{
+  "name": "test-cloud-run",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ragulshark/testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ragulshark/testing/issues"
+  },
+  "homepage": "https://github.com/Ragulshark/testing#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
